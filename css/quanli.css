@@ -1,0 +1,104 @@
+body{
+	background-color: #EBEBEB;
+	font-family: tahoma;
+	height:auto;
+	margin: 0;
+	padding: 0;
+}
+.quanli-menu{
+	width: 100%;
+	height: 96px;
+	background-color: white;
+}
+.quanli-left{
+	height: 100%;
+	width: 250px;
+	float:right;
+	background-color: #C6D8F6;
+	border: 2px #059936 solid;
+	margin-right: 50px;
+}
+#choose-mobile{
+	position: absolute;
+	margin-left: 200px;
+}
+#banner { width:680px;  float:left;
+	position:absolute;
+	margin-left: 500px;
+	margin-top: 32px;
+}
+ .p { width:80px; float: left;
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 14px;
+	margin-left:15px;
+    margin-top: 0px;
+    padding: 4px 0;
+    text-transform: uppercase;
+}
+ #banner #pay { background:url(../images/pay.jpg) no-repeat left center; padding-left:45px;}
+ #banner #truck { background:url(../images/ship.jpg) no-repeat left center; padding-left:40px;}
+ #banner #lock { background:url(../images/lock.jpg) no-repeat left center; padding-left:40px;}
+ #banner #return { background:url(../images/f5.jpg) no-repeat left center; padding-left:40px;}
+#banner #phone { background:url(../images/phone.jpg) no-repeat left center; padding-left:40px;}
+.quanli-left button{
+	height: 35px;
+	width: 100%;
+	margin-bottom: 5px;
+}
+.p1{
+	
+	margin-left: 150px;
+	position: absolute;
+}
+.p2{
+	position: absolute;
+	margin-left: 300px;
+}
+#xoatintuc{
+	height: 30px;
+	width: 100px;
+}
+#stt{
+	margin-left: 150px;
+	position: absolute;
+	border: 2px #071CBD solid;
+	border-radius: 2px;
+	background-color: #071CBD;
+	color: white;
+}
+.quanli-thongtin{
+	width: 200px;
+	height: 30px;
+
+}
+.quanli-right button:hover{
+	background-color: #FE9537;
+}
+.quanli-left button:hover{
+	background-color: #FE9537;
+}
+.themsp{
+	height: 30px;
+}
+#submit-them{
+	width: 300px;
+}
+#submit-them:hover{
+	background-color: #FE9537;
+}
+#img-sp{
+	margin-left: 300px;
+}
+#motasanpham{
+	margin-left: 300px;
+}
+#update input{
+	height: 25px;
+	width: 350px;
+}
+#anh{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 100px;
+}
